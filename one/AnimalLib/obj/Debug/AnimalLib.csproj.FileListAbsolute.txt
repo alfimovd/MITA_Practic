@@ -1,0 +1,4 @@
+C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\AnimalLib\bin\Debug\AnimalLib.dll
+C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\AnimalLib\bin\Debug\AnimalLib.pdb
+C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\AnimalLib\obj\Debug\AnimalLib.dll
+C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\AnimalLib\obj\Debug\AnimalLib.pdb

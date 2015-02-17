@@ -1,0 +1,7 @@
+c:\users\дмитрий\documents\visual studio 2010\Projects\one\one\bin\Debug\one.exe
+c:\users\дмитрий\documents\visual studio 2010\Projects\one\one\bin\Debug\one.pdb
+c:\users\дмитрий\documents\visual studio 2010\Projects\one\one\obj\x86\Debug\one.exe
+c:\users\дмитрий\documents\visual studio 2010\Projects\one\one\obj\x86\Debug\one.pdb
+C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\one\obj\x86\Debug\one.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\one\bin\Debug\AnimalLib.dll
+C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\one\bin\Debug\AnimalLib.pdb
