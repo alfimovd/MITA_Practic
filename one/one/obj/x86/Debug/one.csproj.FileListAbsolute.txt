@@ -5,3 +5,10 @@ c:\users\дмитрий\documents\visual studio 2010\Projects\one\one\obj\x86\De
 C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\one\obj\x86\Debug\one.csprojResolveAssemblyReference.cache
 C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\one\bin\Debug\AnimalLib.dll
 C:\Users\Дмитрий\documents\visual studio 2010\Projects\one\one\bin\Debug\AnimalLib.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\one\one\obj\x86\Debug\one.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\one\one\obj\x86\Debug\one.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\one\one\bin\Debug\one.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\one\one\bin\Debug\one.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\one\one\bin\Debug\AnimalLib.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\one\one\bin\Debug\AnimalLib.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\one\one\obj\x86\Debug\one.csprojResolveAssemblyReference.cache

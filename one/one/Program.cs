@@ -33,24 +33,15 @@ namespace one
             //}
             //Console.ReadLine();
 
-            Console.WriteLine(Cat.Count);
             var cat = new Cat("Runa", new DateTime(2013, 8, 31));
-            Console.WriteLine(Cat.Count);
-            Console.WriteLine(Animal.Count);
-
-            var cat2 = new Cat();
-            Console.WriteLine(Cat.Count);
-            Console.WriteLine(Animal.Count);
-
+            var cat2 = (Cat)(cat.Clone());
+            var cat3 = cat;
             var dog = new Dog();
-            Console.WriteLine(Cat.Count);
-            Console.WriteLine(Animal.Count);
-            for (int i = 0; i < 10; i++)
-            {
-                cat.Pet();
-                cat2.Pet();
-                dog.Pet();
-            }
+
+            Console.WriteLine(cat.Equals(cat2));
+            Console.WriteLine(cat.Equals(cat3));
+            Console.WriteLine(cat.ToString());
+
             Console.ReadLine();
         }
     }

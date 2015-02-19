@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "one", "one\one.csproj", "{A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalLib", "AnimalLib\AnimalLib.csproj", "{B570CCBD-AFF7-4875-B387-8009318F89D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalCollection", "..\..\one\AnimalCollection\AnimalCollection.csproj", "{5A4D3F56-AA76-4679-A19B-153852BA7F79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,16 @@ Global
 		{B570CCBD-AFF7-4875-B387-8009318F89D1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{B570CCBD-AFF7-4875-B387-8009318F89D1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B570CCBD-AFF7-4875-B387-8009318F89D1}.Release|x86.ActiveCfg = Release|Any CPU
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Debug|x86.ActiveCfg = Debug|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Debug|x86.Build.0 = Debug|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Release|Any CPU.ActiveCfg = Release|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Release|Mixed Platforms.Build.0 = Release|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Release|x86.ActiveCfg = Release|x86
+		{5A4D3F56-AA76-4679-A19B-153852BA7F79}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

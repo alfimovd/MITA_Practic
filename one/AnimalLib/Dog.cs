@@ -10,12 +10,12 @@ namespace AnimalLib
         public override void Pet()
         {
             if (_rand.Next(0, 10) < 8)
-                _Wag();
+                Wag();
             else
                 _Bite();
         }
 
-        protected void _Wag()
+        public void Wag()
         {
             var s = string.Format("{0} виляет хвостом ", Name);
             Console.WriteLine(s);

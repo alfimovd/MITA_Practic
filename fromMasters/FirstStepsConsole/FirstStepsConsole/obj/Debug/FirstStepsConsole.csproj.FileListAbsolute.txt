@@ -1,0 +1,8 @@
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\FirstStepsConsole\bin\Debug\FirstStepsConsole.exe.config
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\FirstStepsConsole\bin\Debug\FirstStepsConsole.exe
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\FirstStepsConsole\bin\Debug\FirstStepsConsole.pdb
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\FirstStepsConsole\obj\Debug\FirstStepsConsole.csprojResolveAssemblyReference.cache
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\FirstStepsConsole\obj\Debug\FirstStepsConsole.exe
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\FirstStepsConsole\obj\Debug\FirstStepsConsole.pdb
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\FirstStepsConsole\bin\Debug\AnimalLib.dll
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\FirstStepsConsole\bin\Debug\AnimalLib.pdb

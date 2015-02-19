@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AnimalLib
 {
-    public class Cat : Animal
+    public class Cat : Animal, ICloneable
     {
         static public int Count = 0;
 
@@ -32,5 +32,20 @@ namespace AnimalLib
             Console.WriteLine( Name + " мяукает");
         }
 
+
+        public object Clone()
+        {
+            var cat = new Cat();
+            cat._birthday = this._birthday;
+            cat.Name = this.Name;
+            cat.FavoriteToy = this.FavoriteToy;
+
+            return cat;
+        }
+
+        public override string ToString()
+        {
+            return Name;
+        } 
     }
 }

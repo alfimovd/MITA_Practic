@@ -36,7 +36,7 @@ namespace AnimalLib
             Console.WriteLine( Name + " кусает");
         }
 
-        public virtual void Say()
+        public virtual void WhatYouSay()
         {
             Console.WriteLine("...");
         }

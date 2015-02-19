@@ -1,0 +1,4 @@
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\AnimalLib\bin\Debug\AnimalLib.dll
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\AnimalLib\bin\Debug\AnimalLib.pdb
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\AnimalLib\obj\Debug\AnimalLib.dll
+D:\Projects\zaverden.visualstudio.com\CoolDotNetDevCourse\FirstStepsConsole\AnimalLib\obj\Debug\AnimalLib.pdb
