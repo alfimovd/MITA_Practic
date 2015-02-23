@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\Practic4-Library\bin\Debug\Practic4-Library.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\Practic4-Library\bin\Debug\Practic4-Library.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\Practic4-Library\obj\x86\Debug\Practic4-Library.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\Practic4-Library\obj\x86\Debug\Practic4-Library.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\Practic4-Library\obj\x86\Debug\Practic4-Library.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\Practic4-Library\bin\Debug\ClassLibrary.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\Practic4-Library\bin\Debug\ClassLibrary.pdb

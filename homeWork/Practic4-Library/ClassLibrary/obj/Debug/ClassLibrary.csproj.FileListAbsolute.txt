@@ -1,0 +1,5 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\Practic4-Library\ClassLibrary\obj\Debug\ClassLibrary.pdb
