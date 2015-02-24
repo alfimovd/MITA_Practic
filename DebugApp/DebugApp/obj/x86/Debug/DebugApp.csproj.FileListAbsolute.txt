@@ -1,0 +1,4 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\DebugApp\DebugApp\bin\Debug\DebugApp.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\DebugApp\DebugApp\bin\Debug\DebugApp.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\DebugApp\DebugApp\obj\x86\Debug\DebugApp.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\DebugApp\DebugApp\obj\x86\Debug\DebugApp.pdb
