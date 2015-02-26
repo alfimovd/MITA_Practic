@@ -1,0 +1,4 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\RepositorySample\RepositorySample\bin\Debug\RepositorySample.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\RepositorySample\RepositorySample\bin\Debug\RepositorySample.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\RepositorySample\RepositorySample\obj\x86\Debug\RepositorySample.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\RepositorySample\RepositorySample\obj\x86\Debug\RepositorySample.pdb
