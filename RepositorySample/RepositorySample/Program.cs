@@ -42,6 +42,7 @@ namespace RepositorySample
             {
                 Console.WriteLine("{0} {1} {2}", ul.id, ul.Name, ul.Email);
             }
+            Console.ReadLine();
         }
     }
 }
