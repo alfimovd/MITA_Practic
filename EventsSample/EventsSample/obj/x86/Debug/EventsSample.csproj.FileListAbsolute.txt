@@ -1,0 +1,4 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\EventsSample\EventsSample\bin\Debug\EventsSample.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\EventsSample\EventsSample\bin\Debug\EventsSample.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\EventsSample\EventsSample\obj\x86\Debug\EventsSample.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\EventsSample\EventsSample\obj\x86\Debug\EventsSample.pdb
