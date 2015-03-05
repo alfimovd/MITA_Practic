@@ -40,6 +40,7 @@ namespace EventsSample
         {
             animal.Health = _rand.Next(100,500);
             animal.StarvingLevel = 0;
+            animal.Starving += animal_Starving;
         }
 
         private void _timer_Elapsed(object sender, ElapsedEventArgs e)
