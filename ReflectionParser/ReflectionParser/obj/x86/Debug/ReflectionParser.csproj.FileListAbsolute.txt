@@ -1,0 +1,4 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\ReflectionParser\ReflectionParser\bin\Debug\ReflectionParser.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\ReflectionParser\ReflectionParser\bin\Debug\ReflectionParser.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\ReflectionParser\ReflectionParser\obj\x86\Debug\ReflectionParser.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\ReflectionParser\ReflectionParser\obj\x86\Debug\ReflectionParser.pdb
