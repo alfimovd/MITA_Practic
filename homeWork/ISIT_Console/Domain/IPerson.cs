@@ -5,7 +5,9 @@ using System.Text;
 
 namespace Domain
 {
-    public class ISIT
+    interface IPerson
     {
+        string FirstName { get; set; }
+        string LastName { get; set; }
     }
 }

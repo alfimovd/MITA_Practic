@@ -1,0 +1,13 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\bin\Debug\WpfFirstSample.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\bin\Debug\WpfFirstSample.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\LayoutWindow.baml
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\LayoutWindow.g.cs
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\App.g.cs
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\WpfFirstSample_MarkupCompile.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\WpfFirstSample.g.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\WpfFirstSample.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\WpfFirstSample.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\WpfFirstSample.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\WpfFirstSample\WpfFirstSample\obj\x86\Debug\WpfFirstSample.pdb
