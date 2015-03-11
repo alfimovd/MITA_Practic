@@ -83,10 +83,29 @@ namespace ISIT_Console
                     ISIT.Manager.AcceptRequestEnter(grad, ISIT);
                 }
             }
-
+            Console.WriteLine("========= До сессии ========");
+            foreach (var dev in ISIT.Developers)
+            {
+                Console.WriteLine(dev);
+            }
             ISIT.Session();
+            Console.WriteLine("========= 1 Сессия ========");
+            foreach (var dev in ISIT.Developers)
+            {
+                Console.WriteLine(dev);
+            }
             ISIT.Session();
+            Console.WriteLine("========= 2 Сессия ========");
+            foreach (var dev in ISIT.Developers)
+            {
+                Console.WriteLine(dev);
+            }
             ISIT.Session();
+            Console.WriteLine("========= 3 Сессия ========");
+            foreach (var dev in ISIT.Developers)
+            {
+                Console.WriteLine(dev);
+            }
             Console.ReadLine();
         }
     }

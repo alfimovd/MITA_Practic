@@ -75,8 +75,8 @@ namespace Domain
         private void AllocateLooser()
         {
             var looser = Developers.OrderBy(o => o.DevRating).FirstOrDefault(); 
-            Developers.Remove(looser);
             if (RemoveLooserEvent != null) RemoveLooserEvent(looser, new EventArgs());
+            Developers.Remove(looser);
         }
     }
 }
