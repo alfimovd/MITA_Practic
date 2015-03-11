@@ -8,33 +8,27 @@ namespace Domain
     public class Graduate : IPerson, IDeveloper
     {
         public DateTime GraduationDate { get; set; }
-        public string FirstName
+        public Institute Institute { get; set; }
+
+        public bool IsWantEnterDeveloper()
         {
-            get { throw new NotImplementedException(); }
-            set { throw new NotImplementedException(); }
+            return true;
         }
 
-        public string LastName
+        public bool IsWantLeaveDeveloper()
         {
-            get { throw new NotImplementedException(); }
-            set { throw new NotImplementedException(); }
-        }
-
-        public void ApplyDeveloper(Institute institute)
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool AnswerQuestion(string question)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void LeaveDeveloper(Institute institute)
-        {
-            throw new NotImplementedException();
+            return false;
         }
 
         public int DevRating { get; set; }
+
+        public string FirstName { get; set; }
+
+        public string LastName { get; set; }
+
+        public override string ToString()
+        {
+            return String.Format("Выпускник: {0} {1} ({3}, {2})", FirstName, LastName, Institute.Title, GraduationDate);
+        }
     }
 }

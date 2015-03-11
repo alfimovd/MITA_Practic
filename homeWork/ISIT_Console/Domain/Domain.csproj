@@ -40,6 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleHelper.cs" />
+    <Compile Include="MessageEventArgs.cs" />
+    <Compile Include="MessageHandler.cs" />
+    <Compile Include="DeveloperLooserHandler.cs" />
     <Compile Include="Graduate.cs" />
     <Compile Include="IDeveloper.cs" />
     <Compile Include="Institute.cs" />

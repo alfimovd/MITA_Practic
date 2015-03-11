@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\ISIT_Console\bin\Debug\ISIT_Console.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\ISIT_Console\bin\Debug\ISIT_Console.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\ISIT_Console\obj\x86\Debug\ISIT_Console.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\ISIT_Console\obj\x86\Debug\ISIT_Console.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\ISIT_Console\bin\Debug\Domain.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\ISIT_Console\bin\Debug\Domain.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\ISIT_Console\obj\x86\Debug\ISIT_Console.csprojResolveAssemblyReference.cache

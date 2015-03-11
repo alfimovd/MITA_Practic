@@ -1,0 +1,4 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\Domain\bin\Debug\Domain.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\Domain\bin\Debug\Domain.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\Domain\obj\Debug\Domain.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\homeWork\ISIT_Console\Domain\obj\Debug\Domain.pdb
