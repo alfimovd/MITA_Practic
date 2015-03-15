@@ -1,0 +1,14 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\bin\Debug\TenantsManager.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\bin\Debug\TenantsManager.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\MainWindow.baml
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\App.g.cs
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\TenantsManager_MarkupCompile.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\TenantsManager.g.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\TenantsManager.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\TenantsManager.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\TenantsManager.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\TenantsManager.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\bin\Debug\TenantsManager.Model1.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\bin\Debug\TenantsManager.Model1.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager\obj\x86\Debug\TenantsManager.csprojResolveAssemblyReference.cache

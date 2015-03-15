@@ -1,0 +1,4 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager.Model1\bin\Debug\TenantsManager.Model1.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager.Model1\bin\Debug\TenantsManager.Model1.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager.Model1\obj\Debug\TenantsManager.Model1.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\TenantsManager\TenantsManager.Model1\obj\Debug\TenantsManager.Model1.pdb
