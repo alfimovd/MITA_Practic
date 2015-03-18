@@ -1,0 +1,5 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\pr10-TenantsManager\TendantsManager.Model\bin\Debug\TendantsManager.Model.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\pr10-TenantsManager\TendantsManager.Model\bin\Debug\TendantsManager.Model.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\pr10-TenantsManager\TendantsManager.Model\obj\Debug\TenantsManager.Model.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\pr10-TenantsManager\TendantsManager.Model\obj\Debug\TendantsManager.Model.dll
+C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\MITA_Practic\pr10-TenantsManager\TendantsManager.Model\obj\Debug\TendantsManager.Model.pdb
