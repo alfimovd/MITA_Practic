@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TenantsManager.Model
 {
-    public interface IRepository<TItem> where TItem : IDomainObject
+    public interface IRepository<TItem> where TItem : class, IDomainObject
     {
         void Add(TItem item);
         void Remove(TItem item);

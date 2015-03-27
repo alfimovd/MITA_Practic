@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TenantsManager.Model
 {
-    public class MemoryRepository<TItem> : IRepository<TItem> where TItem : IDomainObject
+    public class MemoryRepository<TItem> : IRepository<TItem> where TItem : class, IDomainObject
     {
         private Dictionary<int, TItem> _storage = new Dictionary<int, TItem>();
 

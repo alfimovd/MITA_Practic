@@ -13,7 +13,7 @@ namespace TenantsManager
 {
     public class MainViewModel : INotifyPropertyChanged
     {
-        private TenantRepository _repository = new TenantRepository();
+        private readonly IRepositoryProvider _repositoryProvider = new EntityRepositoryProvider<TenantsContext>();
         private Tenant _selectedTenant;
         private ICollection<Tenant> _tenands;
         private bool _showDeleted;
@@ -86,15 +86,16 @@ namespace TenantsManager
         private void AddNewTenant()
         {
             var tenant = SelectedTenant;
-            _repository.Add(tenant);
+            _repositoryProvider.GetRepository<Tenant>().Add(tenant);
             SelectedTenant = null;
+            _repositoryProvider.SaveChanges();
             ReloadTenands();
             SelectedTenant = tenant;
         }
 
         private void ReloadTenands()
         {
-            var tanantsQuery = _repository.GetAll();
+            var tanantsQuery = _repositoryProvider.GetRepository<Tenant>().GetAll();
 
             if (!ShowDeleted)
             {
