@@ -74,17 +74,6 @@
                 <RowDefinition Height="Auto"></RowDefinition>
             </Grid.RowDefinitions>
 
-            <TextBlock Text="Unique ID" />
-            <TextBlock Grid.Row="1" Text="Name" />
-            <TextBlock Grid.Row="2" Text="BirthDay" />
-            <TextBlock Grid.Row="3" Text="Debt" />
-
-
-            <TextBlock Grid.Row="0" Grid.Column="1" Margin="0,0,10,10" Text="{Binding SelectedTenant.Id}" />
-            <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding SelectedTenant.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
-            <DatePicker Grid.Row="2" Grid.Column="1" SelectedDate="{Binding SelectedTenant.Birthday}"/>
-            <toolkit:DoubleUpDown Grid.Row="3" Grid.Column="1" Increment="100" Value="{Binding SelectedTenant.Debt}" />
-            <CheckBox Grid.Row="4" Grid.Column="1" IsEnabled="False"  IsChecked="{Binding SelectedTenant.IsDeleted}">Is Deleted</CheckBox>
             <Button Grid.Row="5" Grid.Column="1" Content="Delete tenant" Command="{Binding DeleteTenantCommand}"></Button>
             <Button Grid.Row="5" Grid.Column="1" Content="Save" Command="{Binding AddNewTenantCommand}"
                     Visibility="{Binding SelectedTenant.IsNew, Converter={StaticResource BtvConv}, FallbackValue={x:Static Visibility.Collapsed}}"/>
