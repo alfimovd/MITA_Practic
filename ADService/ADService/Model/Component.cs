@@ -14,5 +14,13 @@ namespace ADService.Model
 
         public int CategoryId { get; set; }
         public ComponentCategory Category { get; set; }
+        public virtual ICollection<SupplierComponent> SupplierComponents { get; set; }
+        //многие ко многим
+        public virtual ICollection<Transport> Transports { get; set; }
+
+        public Component()
+        {
+            Transports = new List<Transport>();
+        }
     }
 }

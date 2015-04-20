@@ -12,5 +12,7 @@ namespace ADService.Model
         public string Description { get; set; }
         public int CategoryId { get; set; }
         public ServiceCategory Category { get; set; }
+
+        public virtual ICollection<BranchService> BranchServices { get; set; }
     }
 }

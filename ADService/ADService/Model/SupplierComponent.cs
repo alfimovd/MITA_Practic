@@ -7,7 +7,7 @@ using Mita.DataAccess;
 
 namespace ADService.Model
 {
-    class SupplierComponent : DomainObject
+    public class SupplierComponent : DomainObject
     {
         public double Price { get; set; }
         public int Amount { get; set; }
