@@ -4,56 +4,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Mita.DataAccess;
 
 namespace ADService.Model
 {
-    // TODO: добавьте следующее к определению SomeType, чтобы видеть этот визуализатор при отладке экземпляров SomeType:
-    // 
-    //  [DebuggerVisualizer(typeof(Transport))]
-    //  [Serializable]
-    //  public class SomeType
-    //  {
-    //   ...
-    //  }
-    // 
-    /// <summary>
-    /// Визуализатор для SomeType.  
-    /// </summary>
-    public class Transport : DialogDebuggerVisualizer
+    public class Transport : DomainObject
     {
-        protected override void Show(IDialogVisualizerService windowService, IVisualizerObjectProvider objectProvider)
-        {
-            if (windowService == null)
-                throw new ArgumentNullException("windowService");
-            if (objectProvider == null)
-                throw new ArgumentNullException("objectProvider");
+        public string VIN { get; set; }
+        public string BodyNumber { get; set; }
+        public string EngimeNumber { get; set; }
+        public string GearBox { get; set; }
+        public int MileAge { get; set; }
 
-            // TODO: получите объект, для которого нужно отобразить визуализатор.
-            //       Выполните приведение результата objectProvider.GetObject() 
-            //       к типу визуализируемого объекта.
-            object data = (object)objectProvider.GetObject();
+        public Client Client { get; set; }
+        public int ClientId { get; set; }
 
-            // TODO: отобразите свое представление объекта.
-            //       Замените displayForm на свой объект Form или Control.
-            using (Form displayForm = new Form())
-            {
-                displayForm.Text = data.ToString();
-                windowService.ShowDialog(displayForm);
-            }
-        }
-
-        // TODO: добавьте следующее к своему коду тестирования для тестирования визуализатора:
-        // 
-        //    Transport.TestShowVisualizer(new SomeType());
-        // 
-        /// <summary>
-        /// Тестирует визуализатор, разместив его вне отладчика.
-        /// </summary>
-        /// <param name="objectToVisualize">Объект для отображения в визуализаторе.</param>
-        public static void TestShowVisualizer(object objectToVisualize)
-        {
-            VisualizerDevelopmentHost visualizerHost = new VisualizerDevelopmentHost(objectToVisualize, typeof(Transport));
-            visualizerHost.ShowVisualizer();
-        }
+        public TransportModel Model { get; set; }
+        public int ModelId { get; set; }
     }
 }

@@ -3,14 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BookStore.DataAccess.Model;
 using Mita.DataAccess;
 
 namespace ADService.Model
 {
-    public class Manager : FullNamedDomainObject
+    public class ServiceCategory : TitledDomainObject
     {
-        public User User { get; set; }
-
+        public string Description { get; set; }
+        public virtual ICollection<Service> Services { get; set; }
     }
 }

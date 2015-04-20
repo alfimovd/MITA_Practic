@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ADService.Model
 {
-    class Supplier
+    public class Supplier
     {
     }
 }

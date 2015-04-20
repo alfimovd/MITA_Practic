@@ -7,9 +7,13 @@ using Mita.DataAccess;
 
 namespace ADService.Model
 {
-    public class TransportManufacturer : TitledDomainObject
+    public class Component : TitledDomainObject
     {
         public string Description { get; set; }
-        public virtual ICollection<TransportModel> TransportModels { get; set; }
+        public string Code { get; set; }
+        public double Price { get; set; }
+
+        public int CategoryId { get; set; }
+        public ComponentCategory Category { get; set; }
     }
 }
