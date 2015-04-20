@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Model\Branch.cs" />
+    <Compile Include="Model\BranchService.cs" />
     <Compile Include="Model\Client.cs" />
     <Compile Include="Model\Component.cs" />
     <Compile Include="Model\ComponentCategory.cs" />
@@ -56,6 +57,7 @@
     <Compile Include="Model\Service.cs" />
     <Compile Include="Model\ServiceCategory.cs" />
     <Compile Include="Model\Supplier.cs" />
+    <Compile Include="Model\SupplierComponent.cs" />
     <Compile Include="Model\Transport.cs" />
     <Compile Include="Model\TransportManufacturer.cs" />
     <Compile Include="Model\TransportModel.cs" />
