@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using BookStore.DataAccess.Model;
 using Mita.DataAccess;
 
-namespace ADService.Model
+namespace ADService.DataAccess.DataAccess.Model
 {
     public class BranchService : DomainObject
     {

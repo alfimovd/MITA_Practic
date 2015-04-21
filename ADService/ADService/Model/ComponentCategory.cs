@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Mita.DataAccess;
 
-namespace ADService.Model
+namespace ADService.DataAccess.DataAccess.Model
 {
     public class ComponentCategory : TitledDomainObject
     {

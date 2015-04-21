@@ -30,9 +30,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\BookStore\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.Build.Framework" />
     <Reference Include="Microsoft.VisualStudio.DebuggerVisualizers, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
@@ -43,7 +48,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ADServiceRepositoryPorvider.cs" />
+    <Compile Include="Db.cs" />
     <Compile Include="Model\Branch.cs" />
     <Compile Include="Model\BranchService.cs" />
     <Compile Include="Model\Client.cs" />
@@ -62,9 +68,14 @@
     <Compile Include="Model\TransportManufacturer.cs" />
     <Compile Include="Model\TransportModel.cs" />
     <Compile Include="Model\User.cs" />
+    <Compile Include="PasswordManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\BookStore\Mita.DataAccess.EF\Mita.DataAccess.EF.csproj">
+      <Project>{BCB128D7-87D3-46C7-B242-E30F41AA51DA}</Project>
+      <Name>Mita.DataAccess.EF</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\BookStore\Mita.DataAccess\Mita.DataAccess.csproj">
       <Project>{B86CC962-B1B9-4763-A348-DB88EF289853}</Project>
       <Name>Mita.DataAccess</Name>

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using ADService.Model;
+using ADService.DataAccess.Model;
 using Microsoft.Build.Framework;
 using Mita.DataAccess;
 
