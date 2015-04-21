@@ -8,7 +8,7 @@ using Mita.DataAccess;
 
 namespace ADService.Model
 {
-    public class ComponentCategory : NamedDomainObject
+    public class ComponentCategory : TitledDomainObject
     {
         public string Description { get; set; }
         public virtual ICollection<Component> Components { get; set; }
