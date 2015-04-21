@@ -1,10 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using ADService.DataAccess.Model;
-using Microsoft.Build.Framework;
 using Mita.DataAccess;
 
-namespace BookStore.DataAccess.Model
+namespace ADService.DataAccess.Model
 {
     public class User : DomainObject
     {

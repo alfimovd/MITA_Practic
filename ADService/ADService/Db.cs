@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.Entity;
+using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ADService.DataAccess.DataAccess.Model;
-using BookStore.DataAccess.Model;
+using ADService.DataAccess.Model;
+
 
 namespace ADService.DataAccess
 {
@@ -31,5 +32,9 @@ namespace ADService.DataAccess
         public IDbSet<TransportModel> TransportModels { get; set; }
         public IDbSet<User> Users { get; set; }
 
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>();
+        }
     }
 }

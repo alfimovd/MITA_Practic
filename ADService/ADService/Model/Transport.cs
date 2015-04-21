@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Mita.DataAccess;
 
-namespace ADService.DataAccess.DataAccess.Model
+namespace ADService.DataAccess.Model
 {
     public class Transport : DomainObject
     {

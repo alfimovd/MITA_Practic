@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Mita.DataAccess;
 
-namespace ADService.DataAccess.DataAccess.Model
+namespace ADService.DataAccess.Model
 {
     public class SupplierComponent : DomainObject
     {

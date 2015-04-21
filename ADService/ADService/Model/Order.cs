@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Mita.DataAccess;
 
-namespace ADService.DataAccess.DataAccess.Model
+namespace ADService.DataAccess.Model
 {
     public class Order : DomainObject
     {

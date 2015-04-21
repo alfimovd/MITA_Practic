@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BookStore.DataAccess.Model;
 using Mita.DataAccess;
 
-namespace ADService.DataAccess.DataAccess.Model
+namespace ADService.DataAccess.Model
 {
     public class BranchService : DomainObject
     {

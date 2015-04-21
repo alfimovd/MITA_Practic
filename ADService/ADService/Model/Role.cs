@@ -1,4 +1,4 @@
-﻿namespace BookStore.DataAccess.Model
+﻿namespace ADService.DataAccess.Model
 {
     public enum Role
     {
