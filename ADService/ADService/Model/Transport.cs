@@ -21,12 +21,6 @@ namespace ADService.DataAccess.Model
         //модель
         public TransportModel Model { get; set; }
         public int ModelId { get; set; }
-        // многие ко многим 
-        public virtual ICollection<Component> Components { get; set; }
-
-        public Transport()
-        {
-            Components = new List<Component>();
-        }
+        
     }
 }

@@ -14,5 +14,13 @@ namespace ADService.DataAccess.Model
         public virtual ICollection<Transport> Transports { get; set; }
         public TransportManufacturer Manufacturer { get; set; }
         public int ManufacturerId { get; set; }
+
+        // многие ко многим 
+        public virtual ICollection<Component> Components { get; set; }
+
+        public TransportModel()
+        {
+            Components = new List<Component>();
+        }
     }
 }

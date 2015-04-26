@@ -16,11 +16,11 @@ namespace ADService.DataAccess.Model
         public ComponentCategory Category { get; set; }
         public virtual ICollection<SupplierComponent> SupplierComponents { get; set; }
         //многие ко многим
-        public virtual ICollection<Transport> Transports { get; set; }
+        public virtual ICollection<TransportModel> TransportModels { get; set; }
 
         public Component()
         {
-            Transports = new List<Transport>();
+            TransportModels = new List<TransportModel>();
         }
     }
 }
