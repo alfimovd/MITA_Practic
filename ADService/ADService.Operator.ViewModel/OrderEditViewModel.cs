@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ADService.Operator.ViewModel
 {
-    public class Class1
+    class OrderEditViewModel : ChildViewModel
     {
     }
 }

@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="ADServiceRepositoryPorvider.cs" />
     <Compile Include="Db.cs" />
+    <Compile Include="IRepositoryExtensions.cs" />
     <Compile Include="Model\Branch.cs" />
     <Compile Include="Model\BranchService.cs" />
     <Compile Include="Model\Client.cs" />
@@ -79,6 +80,10 @@
     <ProjectReference Include="..\..\BookStore\Mita.DataAccess\Mita.DataAccess.csproj">
       <Project>{B86CC962-B1B9-4763-A348-DB88EF289853}</Project>
       <Name>Mita.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\pr16-BookStore\Mita.Core\Mita.Core.csproj">
+      <Project>{87FA3037-FA11-43DF-B91B-8520331D5D35}</Project>
+      <Name>Mita.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

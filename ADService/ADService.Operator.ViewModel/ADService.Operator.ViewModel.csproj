@@ -30,7 +30,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\..\BookStore\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -39,8 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ChildViewModel.cs" />
+    <Compile Include="LoginViewModel.cs" />
+    <Compile Include="MainViewModel.cs" />
+    <Compile Include="OrderEditViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\BookStore\Mita.DataAccess\Mita.DataAccess.csproj">
+      <Project>{B86CC962-B1B9-4763-A348-DB88EF289853}</Project>
+      <Name>Mita.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\pr16-BookStore\Mita.Core\Mita.Core.csproj">
+      <Project>{87FA3037-FA11-43DF-B91B-8520331D5D35}</Project>
+      <Name>Mita.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\pr16-BookStore\Mita.Mvvm\Mita.Mvvm.csproj">
+      <Project>{213D4459-1FAF-46C7-961E-F0AE9BF8513C}</Project>
+      <Name>Mita.Mvvm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ADService\ADService.DataAccess.csproj">
+      <Project>{ADD78EDC-B12E-46D1-B2BB-D15A4196C30F}</Project>
+      <Name>ADService.DataAccess</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
